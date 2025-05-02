@@ -5,6 +5,18 @@
 }
 
 body {
+  <nav>
+  <div class="links">
+    <a href="index.html">Home</a>
+    <a href="products.html">Products</a>
+    <a href="register.html">Register</a>
+    <a href="about.html">About</a>
+  </div>
+  <div class="search">
+    <input type="text" placeholder="Search..." />
+    <button>Search</button>
+  </div>
+</nav>
   font-family: Arial, sans-serif;
   line-height: 1.6;
   display: flex;
